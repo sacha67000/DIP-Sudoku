@@ -1,0 +1,3 @@
+﻿  DIP_Sudoku_VS.cpp
+c:\users\sacha\desktop\dip - sudoku\dip_sudoku_vs\dip_sudoku_vs\dip_sudoku_vs.cpp(16): warning C4091: 'typedef ': ignored on left of 'Pixel' when no variable is declared
+  DIP_Sudoku_VS.vcxproj -> C:\Users\sacha\Desktop\DIP - Sudoku\DIP_Sudoku_VS\Debug\DIP_Sudoku_VS.exe
